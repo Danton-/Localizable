@@ -1,10 +1,10 @@
-/*
- Localizable.strings
- Omnistat
- 
- Created by Mathieu Bolard on 11/09/2014.
- Copyright (c) 2014 Mathieu Bolard. All rights reserved.
- */
+/* 
+  Localizable.strings
+  Omnistat
+
+  Created by Mathieu Bolard on 11/09/2014.
+  Copyright (c) 2014 Mathieu Bolard. All rights reserved.
+*/
 
 
 /* Remaining audio playback time */
@@ -232,11 +232,14 @@
 /* Autoreset cellular data switch */
 "SETTINGS_CELL_AUTORESET" = "Auto Reset Cell Data";
 
-/* Cellular data plan type */
-"SETTINGS_CELL_PLAN" = "Plan Type";
+/* Autoreset wifi data switch */
+"SETTINGS_WIFI_AUTORESET" = "Auto Reset Wifi Data";
 
-/* Cellular data plan start date */
-"SETTINGS_CELL_START" = "Start Date";
+/* Data plan type */
+"SETTINGS_PLAN" = "Plan Type";
+
+/* Data plan start date */
+"SETTINGS_START" = "Start Date";
 
 /* Data downloaded */
 "SETTINGS_DATA_DL" = "Downloaded";
